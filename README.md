@@ -1,4 +1,4 @@
 # tigerCTF
 I've made challenges (lol) you can try them out 
 
-tiger{simpleflag}
+tiger{example_simple_flag}
