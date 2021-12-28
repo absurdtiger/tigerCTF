@@ -13,4 +13,5 @@ This challenge has 2 flags.
 I know the description and flags themselves suck I didn't make it with a particular story
 ### Solution
 the challenge is so simple do you really need a writeup
+
 either way you will find one [right here](https://github.com/absurdtiger/tigerCTF/blob/main/Tiger01/SOLUTION/Writeup.md)
